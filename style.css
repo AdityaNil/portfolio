@@ -50,7 +50,7 @@ body {
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
     color: var(--second-color);
-    background-image: url("./Image/pexels-photo-925743.jpeg");
+    background-image: url("./Image/background.jpg");
 }
 
 h1, h2, p {
