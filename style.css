@@ -46,11 +46,11 @@ html {
 }
 
 body {
+    background-image: url("./Image/background.jpg");
     margin: var(--header-height) 0 0 0;
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
     color: var(--second-color);
-    background-image: url("./Image/background.jpg");
 }
 
 h1, h2, p {
